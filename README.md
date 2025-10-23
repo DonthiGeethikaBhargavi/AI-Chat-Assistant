@@ -36,13 +36,6 @@ expo start
 
 4. Follow the instructions to run the application on your desired platform (Android, iOS, or web).
 
-## Demo Videos
-
-Check out the demonstration videos to see AI-Chat-Assistant in action:
-
-![0519](https://github.com/falatekmen/ChatGPT-Assistant/assets/81239267/0f9716b3-2a42-4dba-b5dc-d65faa837487)
-
-![0519 (1)(1)](https://github.com/falatekmen/ChatGPT-Assistant/assets/81239267/5d1094a0-9367-4772-b520-a8841b0f412a)
 
 ## Contributing
 
