@@ -38,7 +38,7 @@ expo start
 
 ## Demo Videos
 
-Check out the demonstration videos to see ChatGPT Assistant in action:
+Check out the demonstration videos to see AI-Chat-Assistant in action:
 
 ![0519](https://github.com/falatekmen/ChatGPT-Assistant/assets/81239267/0f9716b3-2a42-4dba-b5dc-d65faa837487)
 
