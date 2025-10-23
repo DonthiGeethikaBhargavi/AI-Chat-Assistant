@@ -54,4 +54,4 @@ This is a personal project created to replicate the functionality of AI conversa
 This project is **not affiliated with, endorsed by, or sponsored by OpenAI** or any other company. It is purely for **educational and learning purposes**.  
 
 ## Purpose
-The goal of this project is to learn and experiment with building an AI assistant using Java, Spring Boot, MySQL, and frontend technologies. It is intended for personal learning and practice, **not for commercial use**.
+The goal of this project is to experiment with building an AI assistant using TypeScript, React Native, and Expo It is intended for personal learning and practice, **not for commercial use**.
