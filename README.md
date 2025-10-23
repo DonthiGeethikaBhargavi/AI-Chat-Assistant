@@ -1,6 +1,6 @@
 # AI-Chat-Assistant
 
-ChatGPT Assistant is an application developed using Expo and TypeScript. It serves as a basic demonstration of utilizing OpenAI's models for text generation, image generation, and speech-to-text functionalities. Users can interact with these models through the application, which is compatible with **Android**, **iOS**, and **Web** platforms.
+AI-Chat-Assistant is an application developed using Expo and TypeScript. It serves as a basic demonstration of utilizing OpenAI's models for text generation, image generation, and speech-to-text functionalities. Users can interact with these models through the application, which is compatible with **Android**, **iOS**, and **Web** platforms.
 
 ## Features
 
@@ -15,14 +15,14 @@ To use the application, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/DonthiGeethikaBhargavi/ChatGPT-Assistant.git
+git clone https://github.com/DonthiGeethikaBhargavi/AI-Chat-Assistant.git
 ```
 
 
 2. Install dependencies:
 
 ```
-cd ChatGPT-Assistant
+cd AI-Chat-Assistant
 npm install
 ```
 
