@@ -46,3 +46,12 @@ Please note that the Whisper model for speech-to-text functionality may not work
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+## Disclaimer:
+This is a personal project created to replicate the functionality of AI conversational models similar to OpenAI's ChatGPT.  
+
+This project is **not affiliated with, endorsed by, or sponsored by OpenAI** or any other company. It is purely for **educational and learning purposes**.  
+
+## Purpose
+The goal of this project is to learn and experiment with building an AI assistant using Java, Spring Boot, MySQL, and frontend technologies. It is intended for personal learning and practice, **not for commercial use**.
